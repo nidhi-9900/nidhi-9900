@@ -20,7 +20,7 @@ markdown<div align="center">
 
 # Hi, I'm Nidhi Sharma 👋
 
-### Frontend Developer | Open Source Learner
+### Frontend Developer | Open Source Contributor
 
 </div>
 
