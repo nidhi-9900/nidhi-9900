@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A,1B263B,415A77,0D1B2A&height=200&section=header&text=Nidhi%20Sharma&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Experiences%20✨&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:1e3a5f,100:0d2137&height=200&section=header&text=Nidhi%20Sharma&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Crafting%20Digital%20Experiences&descAlignY=56&descAlign=50&descColor=a8c7fa" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=100&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%E2%9C%A8;AI%2FML+Explorer+%F0%9F%A4%96;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=64FFDA&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=60&lines=Full+Stack+Developer;Open+Source+Enthusiast;AI%2FML+Explorer;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,20 +18,21 @@
 
 <div align="center">
 
-# Hi, I'm Nidhi Sharma 👋
+# Hi, I'm Nidhi Sharma
 
-### Frontend Developer | Open Source Contributor
+### Frontend Developer &nbsp;|&nbsp; Open Source Contributor
 
 </div>
 
 ---
 
-## 🔗 Connect With Me
+## Connect With Me
 
 <p align="left">
 <a href="mailto:nidhi902313@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+&nbsp;
 <a href="https://github.com/nidhi-9900">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
@@ -39,37 +40,33 @@
 
 ---
 
-## 👩‍💻 Who Am I
+## Who Am I
 
 A purpose-driven developer transforming ideas into interactive web experiences through clean code and thoughtful design.
 
-- 🎯 Mastering **React** and **JavaScript** to build scalable, user-centric applications
-- 🔧 Translating concepts into **tangible solutions** through hands-on project development
-- 🧠 Cultivating computational thinking with **data structures and algorithms**
-- 🤝 Contributing to **open source initiatives** and learning from collaborative development
-- 🚀 Committed to continuous growth in software engineering fundamentals
-
-<br clear="right"/>
+- `→` Mastering **React** and **JavaScript** to build scalable, user-centric applications
+- `→` Translating concepts into **tangible solutions** through hands-on project development
+- `→` Cultivating computational thinking with **data structures and algorithms**
+- `→` Contributing to **open source initiatives** and learning from collaborative development
+- `→` Committed to continuous growth in software engineering fundamentals
 
 ---
 
-<br clear="right"/>
+### What Drives Me?
 
-### 🎯 What Drives Me?
+`01` &nbsp; **Passion** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Transforming ideas into elegant, functional code  
+`02` &nbsp; **Learning** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Constantly evolving, one commit at a time  
+`03` &nbsp; **Creativity** &nbsp;&nbsp;&nbsp;&nbsp; Where design meets development  
+`04` &nbsp; **Collaboration** &nbsp; Building amazing things together  
+`05` &nbsp; **Philosophy** &nbsp;&nbsp;&nbsp; *"Clean code is not written by following rules. Clean code is written by disciplined programmers."*
 
-💡 **Passion:** Transforming ideas into elegant, functional code  
-🌱 **Learning:** Constantly evolving, one commit at a time  
-🎨 **Creativity:** Where design meets development  
-🤝 **Collaboration:** Building amazing things together  
-⚡ **Philosophy:** *"Clean code is not written by following rules. Clean code is written by disciplined programmers."*
+---
 
-<br>
-
-## 🔥 Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-### 💻 Core Technologies
+### Core Technologies
 
 <table>
 <tr>
@@ -96,7 +93,7 @@ A purpose-driven developer transforming ideas into interactive web experiences t
 </tr>
 </table>
 
-### 🎨 Frontend Mastery
+### Frontend Mastery
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -106,7 +103,7 @@ A purpose-driven developer transforming ideas into interactive web experiences t
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-### ⚙️ Backend & Databases
+### Backend & Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -114,14 +111,14 @@ A purpose-driven developer transforming ideas into interactive web experiences t
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🐍 Python & Data Science
+### Python & Data Science
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🛠️ Tools & DevOps
+### Tools & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -131,13 +128,13 @@ A purpose-driven developer transforming ideas into interactive web experiences t
 
 </div>
 
-<br>
+---
 
-## 🚀 Future Learning Path
+## Future Learning Path
 
 <div align="center">
 
-### 🌟 Next-Gen Technologies
+### Next-Gen Technologies
 
 <table>
 <tr>
@@ -160,7 +157,7 @@ A purpose-driven developer transforming ideas into interactive web experiences t
 </tr>
 </table>
 
-### 🤖 AI/ML & Emerging Tech
+### AI/ML & Emerging Tech
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -168,7 +165,7 @@ A purpose-driven developer transforming ideas into interactive web experiences t
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### 🔮 Advanced Stack
+### Advanced Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -187,114 +184,98 @@ A purpose-driven developer transforming ideas into interactive web experiences t
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
-<br>
+---
 
-## 🎯 Current Focus Areas
+## Current Focus Areas
 
 <table align="center">
 <tr>
 <td align="center" width="33%">
 
-### 🌐 Web Development
+### Web Development
 Building responsive and performant web applications with modern frameworks
 
 </td>
 <td align="center" width="33%">
 
-### 🧠 DSA & Problem Solving
+### DSA & Problem Solving
 Sharpening algorithmic thinking and competitive programming skills
 
 </td>
 <td align="center" width="33%">
 
-### 🤖 AI/ML Integration
+### AI/ML Integration
 Exploring machine learning models and AI-powered applications
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-## 💼 Open Source & Collaboration
+## Open Source & Collaboration
 
 <div align="center">
 
 ```diff
-+ 🌟 Open to exciting collaborations and innovative projects
-+ 💡 Contributing to meaningful open-source initiatives
-+ 🚀 Building in public and sharing knowledge
-+ 🤝 Let's create something extraordinary together!
++ Open to exciting collaborations and innovative projects
++ Contributing to meaningful open-source initiatives
++ Building in public and sharing knowledge
++ Let's create something extraordinary together
 ```
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
 </div>
 
-<br>
+---
 
-## 🌈 Let's Connect!
+## Let's Connect
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 📫 Reach Out
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nidhi902313@gmail.com)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nidhi-9900)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nidhisharma.dev)
-
-</td>
-</tr>
-</table>
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge&logo=google-chrome&logoColor=64FFDA)](https://nidhisharma.dev)
 
 </div>
 
-<br>
+---
 
-## 💬 Favorite Dev Quote
+## Favorite Dev Quote
 
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=First,%20solve%20the%20problem.%20Then,%20write%20the%20code.&author=John%20Johnson" alt="Dev Quote"/>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-### 🌟 *"Code is poetry written in logic"* 🌟
+*"Code is poetry written in logic"*
 
 <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="700">
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-### ⚡ Fun Fact
-
-**I believe the best error messages are the ones you never see! 🐛✨**
+**Fun Fact** &nbsp; I believe the best error messages are the ones you never see.
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1B2A,1B263B,415A77,0D1B2A&height=150&section=footer&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:1e3a5f,100:0d2137&height=150&section=footer&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
 
-### 💜 *Thanks for stopping by! Let's build something amazing together!* 💜
+*"Thanks for stopping by. Let's build something amazing together."*
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-
-**[⬆ Back to Top](#)**
+**[Back to Top](#)**
 
 </div>
